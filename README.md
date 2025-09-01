@@ -67,7 +67,6 @@ npm run dev
 - ✅ Mark tasks as complete  
 - ❌ Delete tasks when done  
 - 💾 Data persists with Local Storage  
-- 🌗 Toggle Dark/Light Mode  
 
 ---
 

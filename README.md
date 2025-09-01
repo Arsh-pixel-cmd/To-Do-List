@@ -6,8 +6,7 @@ The app provides a modern **glassmorphism UI**, real-time task management, and s
 ---
 
 ## ✨ Features  
-- 🎨 **Glassmorphism Design** with blur & soft shadows  
-- 🌓 **Dark/Light Mode** toggle for user preference  
+- 🎨 **Glassmorphism Design** with blur & soft shadows 
 - ⚡ **Real-time Task Updates** (add, mark complete, delete)  
 - 📦 **Local Storage Support** (tasks persist after refresh)  
 - 📱 **Fully Responsive** (desktop, tablet, mobile)  
